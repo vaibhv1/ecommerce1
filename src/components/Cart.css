@@ -1,0 +1,24 @@
+.cart {
+    padding: 20px;
+    display: flex;
+    margin-left: 20px;
+  }
+  
+  .cart h2 {
+    margin-top: 20px;
+  }
+  
+  .proceed-to-payment-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1rem;
+    margin-top: 20px;
+  }
+  
+  .proceed-to-payment-button:hover {
+    background-color: #0056b3;
+  }  
